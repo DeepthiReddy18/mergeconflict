@@ -4,3 +4,8 @@ msde changes and commit the file
 adding one more line to the text file for second commit
 see the result
 
+
+adding the info in child branch named feature branch
+and commit the lines
+feature branch first commit
+
