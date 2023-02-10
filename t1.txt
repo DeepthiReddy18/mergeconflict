@@ -1,4 +1,6 @@
 Hello to resolve merge conflicts 
 master branch file 
 msde changes and commit the file 
+adding one more line to the text file for second commit
+see the result
 
