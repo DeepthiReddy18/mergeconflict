@@ -1,0 +1,4 @@
+Hello to resolve merge conflicts 
+master branch file 
+msde changes and commit the file 
+
