@@ -4,3 +4,8 @@ msde changes and commit the file
 adding one more line to the text file for second commit
 see the result
 
+
+
+hello modifying this file in the master branch 
+which is called as parent branch
+
